@@ -1,6 +1,8 @@
-# Hi there 👋
+## Hi im GILHO 👋
 
-super novice developer GilHo
+  + super novice developer
+  + be a master of soccer
+  + experienced so many games
 
 <!--
 **HoSiZing/HoSiZing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
